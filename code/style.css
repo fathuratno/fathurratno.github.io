@@ -1,0 +1,60 @@
+.frontcontent{
+	height:cover; 
+	width:80%;
+	text-align:center;
+}
+.jumbotron-image {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom:20rem;
+  padding-top:10rem;
+  text-align:right;
+
+}
+.login{
+	border-radius: 16px;
+  background-color: Transparent;
+  background-repeat:no-repeat;
+  border-width: 2px;
+}
+.buttonpil {
+
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 16px;
+  background-color: Transparent;
+  background-repeat:no-repeat;
+  border-width: 5px;
+  
+}
+.color1:hover
+{
+        background:#53a7ea;
+}
+
+.card{
+	  background-color: Transparent;
+	  border:none;
+	 }
+.frontlogin{
+	background-image: url('openbg.jpg');
+	height:cover; 
+	width:70%;
+	text-align:center;
+	border:solid white 2px;
+	margin-top:-5rem;
+}
+
+.footer {
+
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+  padding-top:5px;
+  padding-bottom:5px;
+}
